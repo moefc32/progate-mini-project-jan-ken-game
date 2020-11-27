@@ -1,4 +1,4 @@
-# [Progate Mini Project] Janken game
+# [Progate Mini Project] Janken Game
 
 ![Progate](./progate.png)
 
