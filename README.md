@@ -10,4 +10,4 @@ Silakan download file berikut untuk memulai :
  * [Panduan](./Mini_Individual_Project_3_-_Jan-Ken_Game.pdf)
 
  ## File pendukung
- * [Persiapan](./Part_1_-_Persiapan.rar)
+ * [Persiapan](./Persiapan.rar)
