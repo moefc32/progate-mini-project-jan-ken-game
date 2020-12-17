@@ -1,4 +1,4 @@
-# [Progate Mini Project] Janken Game
+# [Progate Mini Project] Jan-Ken Game
 
 ![Progate](./progate.png)
 
@@ -7,7 +7,7 @@ Repository ini berisi file-file yang dibutuhkan untuk Progate Mini Individual Pr
 Silakan download file berikut untuk memulai :
 
 ## Panduan
- * [Part 1](./Mini_Individual_Project_3_-_Part_1_-_Janken_Game.pdf)
+ * [Panduan](./Mini_Individual_Project_3_-_Jan-Ken_Game.pdf)
 
  ## File pendukung
- * [Part 1](./Part_1_-_Persiapan.rar)
+ * [Persiapan](./Part_1_-_Persiapan.rar)
